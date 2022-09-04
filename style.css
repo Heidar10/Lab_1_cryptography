@@ -1,0 +1,24 @@
+body{
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+}
+
+p{
+    font-size: 30px;
+} 
+
+#shift,#message{
+    justify-content: center;
+    width: 200px;
+    height: 20px;
+    font-size: 20px;
+}
+
+#output{
+    font-size: 20px;
+}
